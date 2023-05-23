@@ -8,3 +8,6 @@
 # Інсталювання
 Завантажити QRes.exe та Start_60Hz.bat в папку з yuzu.exe. 
 Запускати емулятор через файл Start_60Hz.bat
+
+Програма працює на базі QRes v1.1
+Copyright (C) Anders Kjersem.
